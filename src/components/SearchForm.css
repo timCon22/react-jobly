@@ -1,0 +1,17 @@
+
+.container {
+	margin-top: 1.5rem;
+}
+
+.Search {
+	background-color: #0693ffec;
+	border-color: white;
+}
+
+.Search:hover {
+	background-color: #8a8dff;
+}
+
+.search {
+    display: inline-flex;
+}
