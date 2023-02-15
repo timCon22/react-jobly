@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Jobly
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a mock job application app where users can login, browse jobs, companies and add them to their profile.
 
 ## Available Scripts
 
